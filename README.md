@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/>
   
-
-  <a href="https://github.com/L-Woo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Woo&theme=dracula&layout=compact&langs_count=10" /></a>
-  
 <hr>
 
 ![L-Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Woo&show_icons=true&count_private=true&theme=tokyonight)
