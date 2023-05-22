@@ -27,12 +27,12 @@
 
 <hr>
 
-![Daeseok Ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Woo&show_icons=true&count_private=true&theme=tokyonight)
+![L-Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Woo&show_icons=true&count_private=true&theme=tokyonight)
 <br>
 <hr>
 
 
-[![Solved.ac eotjr990](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmd159)](https://solved.ac/eotjr990)
+[![Solved.ac eotjr990](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmd159)](https://solved.ac/dntmd159)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
